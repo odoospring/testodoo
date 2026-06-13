@@ -6,7 +6,7 @@
     'author': 'Spring Systems',
     'website': 'https://springsystems.com/supplier-solutions/spring-integration',
     'support': 'support@springsystems.com'
-    'live_test_url' : 'https://springsystems.com/email-us'
+    'live_test_url' : 'https://springsystems.com/email-us',
     'price': 49.99,
     'currency': 'USD'
     'depends': ['sale', 'stock'],
