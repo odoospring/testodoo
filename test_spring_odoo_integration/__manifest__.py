@@ -8,7 +8,7 @@
     'support': 'support@springsystems.com',
     'live_test_url' : 'https://springsystems.com/email-us',
     'price': 49.99,
-    'currency': 'USD'
+    'currency': 'USD',
     'depends': ['sale', 'stock'],
     'images': ['static/description/icon.png'],
     'license': 'LGPL-3',
