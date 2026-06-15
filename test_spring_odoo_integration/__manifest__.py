@@ -7,7 +7,7 @@
     'website': 'https://springsystems.com/supplier-solutions/spring-integration',
     'support': 'support@springsystems.com',
     'live_test_url' : 'https://springsystems.com/get-started/lets-get-you-set-up',
-    'price': 59.99,
+    'price': 59.990,
     'currency': 'USD',
     'depends': ['sale_management', 'stock', 'account'],
     'images': ['static/description/icon.jpg'],
