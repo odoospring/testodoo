@@ -10,10 +10,7 @@
     'price': 49.99,
     'currency': 'USD',
     'depends': ['sale', 'stock'],
-    'data': [
-        'static/description/index.html',
-    ],
-    'images': ['static/description/icon.png'],
+    'images': ['static/description/icon.jpg'],
     'license': 'LGPL-3',
     'installable': True,
     'application': True,
