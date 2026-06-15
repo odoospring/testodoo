@@ -10,7 +10,7 @@
     'price': 49.99,
     'currency': 'USD',
     'depends': ['sale', 'stock'],
-    'images': ['static/description/icon.jpg'],
+    'images': ['static/description/spring_systems_logo-100x100square.png'],
     'license': 'LGPL-3',
     'installable': True,
     'application': True,
