@@ -11,7 +11,7 @@
     'currency': 'USD',
     'depends': ['sale', 'stock'],
     'data': [
-        'static/index.xml',
+        'static/description/index.xml',
     ],
     'images': ['static/description/icon.png'],
     'license': 'LGPL-3',
