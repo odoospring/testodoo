@@ -10,7 +10,7 @@
     'price': 59.989,
     'currency': 'USD',
     'depends': ['sale_management', 'stock', 'account'],
-    'images': ['static/description/icon.jpg', 'static/description/Spring Systems Portalapp.gif'],
+    'images': ['static/description/icon.jpg', 'static/description/odoo.gif'],
     'license': 'LGPL-3',
     'installable': True,
     'application': True,
